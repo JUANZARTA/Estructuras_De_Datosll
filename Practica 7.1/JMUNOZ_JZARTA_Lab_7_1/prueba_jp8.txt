@@ -1,0 +1,21 @@
+nodo a
+nodo b
+nodo c
+nodo d
+nodo e
+nodo f
+nodo g
+nodo h
+nodo i
+arista c a 3
+arista a b 5
+arista b e 8
+arista e f 9
+arista f h 1
+arista h g 2
+arista a d 2
+arista d e 6
+arista d f 7
+imprimir
+matriz
+fin

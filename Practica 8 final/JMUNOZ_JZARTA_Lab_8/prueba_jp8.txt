@@ -1,0 +1,33 @@
+nodo a
+nodo b
+nodo c
+nodo d
+nodo e
+nodo f
+nodo g
+nodo h
+nodo i
+arista c a 3
+arista a c 9
+arista a b 5
+arista b e 4
+arista e f 9
+arista f h 1
+arista h g 2
+arista a d 2
+arista d e 6
+arista d f 7
+arista b c 9
+arista c f 12
+arista b d 4
+
+
+imprimir
+matriz
+
+fuente a
+sumidero f
+
+nodo b
+costo
+fin
