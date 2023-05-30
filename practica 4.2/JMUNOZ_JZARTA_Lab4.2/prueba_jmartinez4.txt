@@ -1,0 +1,41 @@
+insertar 9
+insertar 7
+insertar 4
+insertar 1
+insertar 5
+insertar 8
+insertar 13
+insertar 12
+insertar 11
+insertar 15
+insertar 17
+buscar 5
+buscar 23
+preorden
+inorden
+postorden
+eliminar 12
+preorden
+eliminar 9
+preorden
+eliminar 1
+preorden
+buscar 17
+elementos
+mayor
+menor
+eliminar 4
+eliminar 5
+eliminar 7
+eliminar 8
+inorden
+eliminar 13
+eliminar 15
+eliminar 17
+inorden
+eliminar 11
+
+mayor
+preorden
+menor
+salir

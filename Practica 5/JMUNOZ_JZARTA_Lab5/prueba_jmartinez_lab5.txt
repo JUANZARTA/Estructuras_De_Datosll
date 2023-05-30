@@ -1,0 +1,16 @@
+insertar 1
+insertar 2
+insertar 3
+insertar 4
+insertar 5
+inorden
+buscar 5
+buscar 6
+insertar 7
+insertar 8
+insertar 9
+insertar 10
+inorden
+preorden
+postorden
+salir

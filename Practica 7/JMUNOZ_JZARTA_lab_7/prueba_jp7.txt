@@ -1,0 +1,20 @@
+nodo a
+nodo b
+nodo c
+nodo d
+nodo e
+nodo f
+nodo g
+nodo h
+nodo i
+arista c a
+arista a b
+arista b e
+arista e f
+arista f h
+arista h g
+arista a d
+arista d e
+arista d f
+imprimir
+fin
