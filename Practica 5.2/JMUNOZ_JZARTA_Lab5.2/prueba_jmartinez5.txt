@@ -1,0 +1,22 @@
+insertar 30
+insertar 9
+insertar 5
+insertar 6
+insertar 7
+inorden
+eliminar 7
+eliminar 30
+eliminar 5
+inorden
+buscar 7
+buscar 6
+buscar 30
+buscar 9
+insertar 8
+insertar 20
+insertar 14
+insertar 4
+inorden
+preorden
+postorden
+salir

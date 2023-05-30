@@ -1,0 +1,19 @@
+insertar 5
+iNsertar 1
+insertar 9
+insertaR 13
+insertar 4
+insertar -6
+insertar 12
+insertar 7
+insertar 2
+insertar 11
+insertar 8
+insertar 3
+insertar 10
+imprimirOrden
+imprimirNiveles
+buscar 5
+Buscar 2
+buScar 7
+salir
